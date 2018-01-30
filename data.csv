@@ -1,0 +1,8 @@
+name,ring,quadrant,isNew,description
+Sample One,hold,tools,TRUE,"Description with <b>bold</b> parts, possibly <i>italic</i>, <s>stroked</s>, <small>small</small>, or otherwise plain text."
+Sample Two,assess,tools,FALSE,Twoooooooo
+Sample Three,adopt,tools,TRUE,Threeeeeeee
+Sample Four,trial,tools,FALSE,Foooooooour
+Sample Five,hold,languages & frameworks,TRUE,Fiiiiive
+Sample Six,assess,platforms,FALSE,Siiiiiix
+Sample Seven,trial,techniques,TRUE,Seeeeeven
